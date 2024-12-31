@@ -1,2 +1,2 @@
 "file" "checksum" "built" "date"
-"episodes/introduction.Rmd" "2d68fdc4d8fedf307f5a783dccccdd06" "site/built/introduction.ipynb" "2024-12-24"
+"episodes/introduction.Rmd" "2d68fdc4d8fedf307f5a783dccccdd06" "site/built/introduction.ipynb" "2024-12-31"
